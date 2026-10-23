@@ -1,4 +1,4 @@
-# Jannatul Nayeem
+# Jannatul Nayem
 
 <p align="center">
   <img src="./assets/wildlife-field-notes.gif" alt="Animated field-note illustration of a wetland, reeds, birds, and an elephant silhouette" width="100%" />
@@ -73,5 +73,5 @@ I’m interested in the small, repeatable practices that make conservation work 
 </p>
 
 <p align="center">
-  <sub>Jannatul Nayeem · wildlife field notes · built with attention to living systems</sub>
+  <sub>Jannatul Nayem · wildlife field notes · built with attention to living systems</sub>
 </p>
