@@ -1,7 +1,7 @@
 # Jannatul Nayeem
 
 <p align="center">
-  <img src="./assets/wildlife-field-notes.svg" alt="A field-note illustration of a wetland, reeds, birds, and an elephant silhouette" width="100%" />
+  <img src="./assets/wildlife-field-notes.gif" alt="Animated field-note illustration of a wetland, reeds, birds, and an elephant silhouette" width="100%" />
 </p>
 
 <p align="center">
