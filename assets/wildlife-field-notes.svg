@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Wildlife field notes</title>
+  <desc id="desc">A warm field-note illustration with wetland water lines, reeds, flying birds, and an elephant silhouette.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102a24"/>
+      <stop offset="0.58" stop-color="#18352e"/>
+      <stop offset="1" stop-color="#315b4b"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4d8073" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#102a24" stop-opacity=".2"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#sky)"/>
+  <circle cx="965" cy="86" r="54" fill="#e6b06a" opacity=".16" filter="url(#softGlow)"/>
+  <circle cx="965" cy="86" r="32" fill="#e6b06a" opacity=".72"/>
+
+  <g fill="none" stroke="#9bc9bf" stroke-linecap="round" opacity=".28">
+    <path d="M0 229 C152 195 254 251 412 220 S702 193 1200 236"/>
+    <path d="M0 250 C158 218 274 275 436 242 S742 215 1200 256"/>
+    <path d="M0 276 C168 247 292 299 456 270 S806 244 1200 284"/>
+    <path d="M0 301 C182 278 306 323 492 296 S842 273 1200 310" opacity=".65"/>
+  </g>
+  <path d="M0 218 C158 191 282 248 440 215 S748 191 1200 224 V360 H0Z" fill="url(#water)"/>
+
+  <g fill="none" stroke="#9bc9bf" stroke-width="2" stroke-linecap="round" opacity=".64">
+    <path d="M102 277 C94 234 86 207 75 179"/>
+    <path d="M108 277 C112 228 129 194 143 169"/>
+    <path d="M119 280 C126 241 160 218 178 198"/>
+    <path d="M1076 283 C1068 237 1052 205 1038 174"/>
+    <path d="M1084 283 C1088 231 1107 195 1128 166"/>
+    <path d="M1092 283 C1108 239 1140 218 1156 193"/>
+  </g>
+
+  <g fill="none" stroke="#dbe8da" stroke-width="2" stroke-linecap="round" opacity=".58">
+    <path d="M188 118 q14 -15 28 0 q14 -15 28 0"/>
+    <path d="M784 140 q13 -13 26 0 q13 -13 26 0"/>
+    <path d="M824 113 q10 -10 20 0 q10 -10 20 0"/>
+  </g>
+
+  <g transform="translate(504 153)" fill="none" stroke="#dbe8da" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 41 C2 16 19 2 46 2 C67 2 83 14 88 33 C91 42 86 48 77 48 H7 C2 47 -1 45 0 41Z" fill="#102a24" stroke-width="2"/>
+    <path d="M65 18 C56 1 36 0 26 14 C24 25 33 36 45 37 C55 36 62 28 65 18Z" stroke-width="2"/>
+    <path d="M80 23 C95 24 101 34 98 44 C96 51 89 54 85 50 C82 47 88 43 89 39 C91 34 86 31 80 31" stroke-width="2"/>
+    <path d="M80 34 C74 37 74 43 77 46" stroke-width="1.5"/>
+    <path d="M3 19 C-8 13 -13 18 -12 27 C-11 32 -8 33 -5 31" stroke-width="2"/>
+    <path d="M8 46 V65 M29 47 V65 M61 47 V63 M78 46 V63" stroke-width="2"/>
+  </g>
+
+  <g fill="#e6b06a">
+    <circle cx="76" cy="70" r="3"/>
+    <circle cx="1104" cy="302" r="2"/>
+  </g>
+  <g fill="#dbe8da" opacity=".7" font-family="monospace" font-size="12" letter-spacing="3">
+    <text x="54" y="52">FIELD NOTE 01</text>
+    <text x="982" y="319">OBSERVE / TRACE / RETURN</text>
+  </g>
+</svg>
